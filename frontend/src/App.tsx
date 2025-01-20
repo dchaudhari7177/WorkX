@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Home from "./components/home"; // Adjust the path if needed
+import Home from "./components/Home"; // Adjust the path if needed
 import './index.css'
 import './App.css'
 
